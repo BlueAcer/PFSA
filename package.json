@@ -1,0 +1,10 @@
+{
+  "name": "precision-fs-autos-website",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "PRECISION FS AUTOS static website with a Vercel enquiry function",
+  "scripts": {
+    "test": "node --test"
+  }
+}
